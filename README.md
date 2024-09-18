@@ -1,6 +1,7 @@
 # vlm-benchmarks
 [GitHub Link](https://github.com/aryankargwal/vlm-benchmarks)
-[Youtube Link](https://youtu.be/MwryGctpWrM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MwryGctpWrM?si=CQc8zaJZ7H2QYbsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In the fast-evolving world of AI, Vision-Language Models (VLMs) are breaking new ground. Today, we are diving into [Pixtral 12B](https://mistral.ai/news/pixtral-12b/), the latest VLM from Mistral AI, which I benchmarked against GPT-4 on multiple datasets. This technical blog will walk you through my benchmarking process and share insights on how Pixtral 12B fares against GPT-4v in various tasks.
 
